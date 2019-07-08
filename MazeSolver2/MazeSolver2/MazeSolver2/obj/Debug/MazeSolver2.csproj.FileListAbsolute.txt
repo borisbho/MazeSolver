@@ -1,0 +1,7 @@
+C:\Users\Boris Ho\Documents\WorkSpace\MazeSolver\MazeSolver2\MazeSolver2\MazeSolver2\bin\Debug\MazeSolver2.exe.config
+C:\Users\Boris Ho\Documents\WorkSpace\MazeSolver\MazeSolver2\MazeSolver2\MazeSolver2\bin\Debug\MazeSolver2.exe
+C:\Users\Boris Ho\Documents\WorkSpace\MazeSolver\MazeSolver2\MazeSolver2\MazeSolver2\bin\Debug\MazeSolver2.pdb
+C:\Users\Boris Ho\Documents\WorkSpace\MazeSolver\MazeSolver2\MazeSolver2\MazeSolver2\obj\Debug\MazeSolver2.csprojAssemblyReference.cache
+C:\Users\Boris Ho\Documents\WorkSpace\MazeSolver\MazeSolver2\MazeSolver2\MazeSolver2\obj\Debug\MazeSolver2.csproj.CoreCompileInputs.cache
+C:\Users\Boris Ho\Documents\WorkSpace\MazeSolver\MazeSolver2\MazeSolver2\MazeSolver2\obj\Debug\MazeSolver2.exe
+C:\Users\Boris Ho\Documents\WorkSpace\MazeSolver\MazeSolver2\MazeSolver2\MazeSolver2\obj\Debug\MazeSolver2.pdb
